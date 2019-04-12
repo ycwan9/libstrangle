@@ -7,5 +7,5 @@ matrix:
           packages:
             - libc6-dev-i386
             - gcc-multilib
-            - ia32-libs
+
 script: make
